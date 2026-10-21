@@ -1,0 +1,6 @@
+a = float(input("Nhập số 1: "))
+b = float(input("Nhập số 2: "))
+c = float(input("Nhập số 3: "))
+d = float(input("Nhập số 4: "))
+e = float(input("Nhập số 5: "))
+print(f"Min = {min(a, b, c, d, e)}")
